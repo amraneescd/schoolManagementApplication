@@ -1,0 +1,36 @@
+
+
+/*
+
+This file is all about CSS styling for the pages
+
+*/
+
+.container {
+    -fx-background-color: #fff;
+}
+
+.btn, 
+.login-text-field {
+   
+    -fx-background-radius: 8;
+    -fx-background-color:  #232226;
+    -fx-padding: 8px 20px;
+    -fx-text-fill: white;
+}
+
+.btn {
+    -fx-padding: 8px 20px;
+}
+
+.classContainer,
+#classContainer {
+    -fx-background-color: #7437E6;
+    -fx-background-radius: 12px;
+    -fx-padding: 20px;
+
+}
+
+#studentContainer {
+    -fx-padding: 12px
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <!-- other classpathentry elements... -->
+    <classpathentry kind="lib" path="lib/src/main/java/org/json/org.json.jar"/>
+    <classpathentry kind="src" path="src"/>
+</classpath>
