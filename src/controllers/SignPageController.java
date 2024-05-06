@@ -42,7 +42,6 @@ public class SignPageController {
 
         // pass the email and passwrod to check if the user information are correct
         boolean isUserExists = SanityClient.isUserExists(email, password);
-        loadingContainer.setVisible(true);
 
         if (isUserExists) {
             System.out.print("loading");
